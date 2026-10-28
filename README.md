@@ -61,19 +61,7 @@ A collection of hands-on data analysis and Python projects.
 - Data manipulation using Pandas and NumPy
 - Data visualization and insight generation
 
-> 📌 Replace these project descriptions with links to the corresponding repositories as each project becomes ready to showcase.
 
----
-
-## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
----
 
 ## 🎯 My Learning Roadmap
 
