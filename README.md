@@ -1,6 +1,6 @@
 # Hey, I'm Kartik Bagde 👋
 
-### 💻 Aspiring Data Engineer | Data Science & AI Enthusiast
+### 💻 Aspiring AI Engineer | Data Engineer | Data Science & AI Enthusiast
 
 I’m passionate about turning raw data into meaningful insights and building practical solutions with Python, SQL, and modern data technologies.
 
