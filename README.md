@@ -68,8 +68,8 @@ A collection of hands-on data analysis and Python projects.
 - [x] Python fundamentals
 - [x] SQL fundamentals and problem-solving practice
 - [x] NumPy fundamentals and broadcasting
-- [ ] Advanced Pandas and real-world data analysis
-- [ ] Machine Learning and model evaluation
+- [x] Advanced Pandas and real-world data analysis
+- [x] Machine Learning and model evaluation
 - [ ] End-to-end ETL pipelines
 - [ ] Data engineering tools and cloud technologies
 - [ ] Production-ready Data Science and AI projects
